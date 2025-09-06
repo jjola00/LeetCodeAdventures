@@ -1,4 +1,3 @@
-
 def time_conversion(s: str) -> str:
     """Convert 12-hour time like '07:05:45PM' to '19:05:45'."""
     suffix = s[-2:]
